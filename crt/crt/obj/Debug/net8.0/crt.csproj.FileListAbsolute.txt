@@ -1,0 +1,14 @@
+E:\crt\crt\bin\Debug\net8.0\crt.exe
+E:\crt\crt\bin\Debug\net8.0\crt.deps.json
+E:\crt\crt\bin\Debug\net8.0\crt.runtimeconfig.json
+E:\crt\crt\bin\Debug\net8.0\crt.dll
+E:\crt\crt\bin\Debug\net8.0\crt.pdb
+E:\crt\crt\obj\Debug\net8.0\crt.GeneratedMSBuildEditorConfig.editorconfig
+E:\crt\crt\obj\Debug\net8.0\crt.AssemblyInfoInputs.cache
+E:\crt\crt\obj\Debug\net8.0\crt.AssemblyInfo.cs
+E:\crt\crt\obj\Debug\net8.0\crt.csproj.CoreCompileInputs.cache
+E:\crt\crt\obj\Debug\net8.0\crt.dll
+E:\crt\crt\obj\Debug\net8.0\refint\crt.dll
+E:\crt\crt\obj\Debug\net8.0\crt.pdb
+E:\crt\crt\obj\Debug\net8.0\crt.genruntimeconfig.cache
+E:\crt\crt\obj\Debug\net8.0\ref\crt.dll
